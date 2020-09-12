@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "prompts": "^2.3.2",
     "pwa": "^1.9.7",
     "register-service-worker": "^1.6.2",
